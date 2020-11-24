@@ -1,0 +1,35 @@
+.bodybg{
+
+background: linear-gradient(to right, #00d8fb , #7e04ec );
+
+}
+
+ .index-headings a{
+ text-decoration: none;
+ color: white;
+ font-size: 30px;
+  transition-duration: 1s;
+}
+
+
+
+
+a:hover {
+text-decoration: none;
+color:#eb1199;
+}
+
+form label {
+	color:black;
+	font-size:20px ; 
+}
+
+
+.msg {
+
+padding: 10px;
+border-radius: 5px;
+font-size: 20px;
+
+}
+
